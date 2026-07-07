@@ -2,6 +2,9 @@
 
 SugarCode AI is a state-of-the-art biological AI platform organized into a network of 78 specialized modules categorized into nine functional sub-networks. Each node utilizes the **Omega OS v7.0** framework to synthesize multi-omic data from 20+ global repositories.
 
+
+To Use it simply click: https://bionet-nexus-lab.base44.app/
+
 ## 🌐 Architecture Overview
 
 The platform is built as a neural stack of 84 nodes, providing a unified digital-biological operating system.
