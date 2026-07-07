@@ -1,0 +1,23 @@
+{
+  "name": "sugarcode-ai",
+  "version": "1.0.0",
+  "description": "SugarCode AI: A network of specialized biological AI modules",
+  "main": "index.js",
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "modules/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AI",
+    "Biology",
+    "CRISPR",
+    "Genomics",
+    "Synthetic Biology"
+  ],
+  "author": "",
+  "license": "MIT"
+}
