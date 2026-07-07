@@ -90,5 +90,3 @@ Personalized medicine and novel therapeutic design.
 - **Frontend**: Next.js (Dashboard)
 - **Architecture**: Monorepo with specialized sub-networks
 
-## 🚀 Getting Started
-(Detailed setup instructions for Omega OS v7.0 nodes coming soon...)
